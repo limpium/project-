@@ -1,0 +1,5 @@
+DATABASE_NAME = 'satellite_db'
+USER = 'myuser'
+PASSWORD = 'mypassword'
+HOST = 'localhost'
+PORT = '5432'
